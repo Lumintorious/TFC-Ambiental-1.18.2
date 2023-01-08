@@ -1,0 +1,39 @@
+{
+  "death.attack.hypothermia": "%1$s이(가) 얼어 죽었습니다.",
+  "death.attack.hyperthermia": "%1$s이(가) 열사병으로 사망했습니다.",
+
+  "effect.tfambiental.cool.name": "시원해 지는 중",
+  "effect.tfcambiental.warm.name": "따뜻해 지는 중",
+
+  "item.tfcambiental.straw_hat": "밀짚모자",
+  "item.tfcambiental.leather_apron": "가죽 앞치마",
+
+  "item.tfcambiental.wool_hat": "양모 모자",
+  "item.tfcambiental.wool_sweater": "양모 스웨터",
+  "item.tfcambiental.wool_pants": "양모 바지",
+  "item.tfcambiental.wool_boots": "양모 장화",
+
+  "item.tfcambiental.silk_cowl": "실크 카울",
+  "item.tfcambiental.silk_shirt": "실크 셔츠",
+  "item.tfcambiental.silk_pants": "실크 바지",
+  "item.tfcambiental.silk_shoes": "실크 신발",
+
+  "item.tfcambiental.burlap_cowl": "삼베 두건",
+  "item.tfcambiental.burlap_shirt": "삼베 셔츠",
+  "item.tfcambiental.burlap_pants": "삼베 바지",
+  "item.tfcambiental.burlap_shoes": "삼베 신발",
+
+  "item.tfcambiental.insulated_leather_hat": "절연 가죽 모자",
+  "item.tfcambiental.insulated_leather_tunic": "절연 가죽 튜닉",
+  "item.tfcambiental.insulated_leather_pants": "절연 가죽 바지",
+  "item.tfcambiental.insulated_leather_boots": "절연 가죽 장화",
+
+  "tfambiental.tooltip.warmth": "따뜻함: %s",
+  "tfambiental.tooltip.insulation": "단연: %s",
+  "tfcambiental.tooltip.sun_protection": "직사광선으로부터 보호",
+
+  "curios.identifier.clothes_hat": "옷(머리)",
+  "curios.identifier.clothes_torso": "옷(몸통)",
+  "curios.identifier.clothes_pants": "옷(다리)",
+  "curios.identifier.clothes_socks": "옷(발)"
+}
